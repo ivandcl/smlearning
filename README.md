@@ -12,3 +12,9 @@ Cómo citar:
 
 Claros, I.: "Mecanismos de Interacción Centrados en Recursos Multimedia sobre Entornos Web Sociales como Modelo de Aprendizaje Activo a través de Internet", Tesis doctoral, Universidad Autónoma de Madrid, Octubre de 2015.
 
+Más información y publicaciones
+
+- https://www.researchgate.net/profile/Ivan_Claros
+- https://scholar.google.es/citations?hl=en&user=-uiLqyAAAAAJ
+
+
