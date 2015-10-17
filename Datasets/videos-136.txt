@@ -1,0 +1,164 @@
+created	author	ranking	votes	viewers	annotations	ntags	scripts	sd	tags
+2011-10-04 08:42:13	31	3.5	2	35	2	6	1	0.70710678118655	ieee:ieee seccion espana:emadrid:ieee:ieee seccion espana:emadrid
+2011-10-05 13:06:31	1	3.33333	3	34	1	3	2	1.1547005383793	aprendizaje:presentacion:cscl
+2011-10-05 22:05:12	31	4	1	22	1	3	1	0	redmine:new project:sistema colaborativo
+2011-10-12 16:39:41	30	4	2	13	1	6	1	0	vigotsky:piaget:ausubel:novak:aprendizaje:presentacion
+2011-10-12 18:01:18	30	4.33333	3	26	1	5	2	0.57735026918963	medios:reilly:web 2.0:explicacion:publicidad contextual
+2011-10-12 18:10:13	30	3.5	2	22	0	3	2	0.70710678118655	tim o reilly:entrevista:web 2.0
+2011-10-12 20:38:40	31	4	4	26	2	3	1	2	test:awareness:visual
+2011-10-13 14:16:41	33	3.5	2	13	1	12	0	0.70710678118655	collaborative:discussion:decision:support:system:e-participation:social:networking:dlsu:thesis:e-governance:webapp
+2011-10-14 18:20:06	31	4.6	5	17	3	3	2	0.54772255750517	statistics:2011:social media
+2011-10-14 19:00:18	31	4	3	11	3	6	2	0	social media:cloud computing:explained visually:content:contenido:red social
+2011-10-15 12:44:03	33	4.5	2	35	2	6	3	0.70710678118655	semantic:web:rdfa:microformats:manu:sporny
+2011-10-15 12:52:51	33	5	3	18	3	52	3	0	web:semantica:internet:1.0:2.0:3.0:4.0:5.0:futuro:proximo:google:busquedas:metaweb:presentacion:documental:español:subtitulado:conferencia:entrevista:ray:kurzweil:raymond:netsukuku:informatica:motores:busqueda:manejo:información:yahoo:bing:ecosia:semantic:video:informe:resumen:explicacion:ciencia:tecnologia:lenguaje:idiomas:geek:geeks:computación:significado:conceptos:entidades:entidad:significados:sintaxis:sentido:semantico:search
+2011-10-15 13:04:25	33	4.33333	3	29	5	6	4	1.1547005383793	evolucion:web:web semantica:web 2.0:web 3.0:web 1.0
+2011-10-15 13:27:41	33	3	4	14	3	10	1	0.81649658092773	generaciones:interactivas:ninos:adolescentes:educación:internet:twitter:commoncraft:definicion:publicidad
+2011-10-16 23:37:15	34	4.2	5	22	1	6	2	0.83666002653408	crowdsourcing:crowdsource:wikipedia:web 2.0:social media:tercerizacion masiva
+2011-10-16 23:47:32	34	4.5	4	20	2	5	1	0.57735026918963	social media:Redes sociales:beneficios red social:comunidades virtuales:ventajas social media
+2011-10-16 23:55:20	34	3	2	14	1	11	1	1.4142135623731	web:2.0:kb:knowledge:base:customer:care:wiki:community:content:web 2.0
+2011-10-17 00:43:11	31	4	4	21	4	9	2	0	jeremiah:owyang:forrester:social:media:computing:web:strategist:social web
+2011-10-17 13:34:43	32	3.5	2	16	3	2	1	0.70710678118655	2.0:gobierno
+2011-10-18 00:17:57	31	4.8	5	34	3	3	3	0.44721359549996	herramientas colaborativas:aprendizaje colaborativo:conceptos clave
+2011-10-18 14:28:26	32	4.4	5	16	5	5	1	0.54772255750517	twitter:tumblr:microblogging:Redes sociales:publicaciones cortas
+2011-10-18 14:32:17	32	3.66667	3	12	2	4	1	0.57735026918963	twitter:microblogging:presentacion:web 2.0
+2011-10-18 14:42:36	33	4	5	23	4	17	3	1.2247448713916	pearson:openclass:lms:highereducation:university:google:students:joinopenclass:college:community:open class:adrian sannier:learning management system:colaboracion:trabajo equipo:educacion grupal:plataformas educativas
+2011-10-18 14:43:40	33	4.33333	3	16	2	7	0	1.1547005383793	google i/o:developers:developers sandbox:storify:youtube:ejemplo aplicaciones:social media
+2011-10-18 14:49:24	33	3.85714	7	28	5	13	4	0.69006555934235	wiki:business wiki:enterprise wiki:company wiki:online team collaboration:group collaboration:education wiki:online classrooms:ejemplo aplicaciones:colaboracion:cscl:cscw:colaborativo grupal
+2011-10-18 15:22:18	1	4	5	14	2	2	1	0.70710678118655	interdependencia:conceptos clave
+2011-10-18 22:10:12	35	4.8	5	34	3	5	2	0.44721359549996	inteligencia colectiva:web 2.0:sos:identidad digital:xobni
+2011-10-18 22:22:46	35	4.83333	6	35	4	6	2	0.40824829046386	sociologia:toma de decisiones:inteligencia colectiva:trabajo equipo:inteligencia grupal:colaboracion
+2011-10-19 17:24:26	32	4	3	15	2	6	1	0	aprendizaje:vigotsky:sociocultural:presentacion:teoria:lenguaje
+2011-10-19 22:35:47	35	4.4	5	28	6	5	1	0.54772255750517	web semantica:Redes sociales:ontologia:identidad digital:semanticweb
+2011-10-19 23:48:57	31	3.5	4	13	3	6	0	1	cloud computing:xobni:sos:internet:integracion:integracion multiplataforma
+2011-10-20 02:23:49	34	3.5	4	21	5	6	2	0.57735026918963	moodle:herramientas:aprendizaje:presentacion:aprendizaje colaborativo:mapa conceptual
+2011-10-20 02:31:37	34	3.6	5	12	1	6	1	0.89442719099992	vygotsky:zone of proximal development:zona de desarrollo proximo:sistemas colaborativos:aprendizaje colaborativo:presentacion
+2011-10-20 03:09:20	34	4	5	19	3	10	3	0.70710678118655	Redes sociales:publicidad en redes sociales:desarrollo de redes sociales:social:redes:twitter:facebook:social media:marketing viral:infografia
+2011-10-20 13:08:43	34	4	5	13	3	19	0	0.70710678118655	evly:the social network:crowdfunding:free website builder:how to build a free website:crowdfund:how to crowdfund:crowd source:crowd sourced:social networking:building a free social network:business social networking:market research:market research tools:trabajo equipo:red social:crowdsourcing:colaboracion:equipo
+2011-10-20 13:17:34	34	4.33333	3	9	3	7	1	0.57735026918963	efe:madrid:crowdfunding:internet:colaboracion:financiamniento grupal:inversion
+2011-10-20 22:36:47	35	4.6	5	16	3	7	1	0.54772255750517	steve jobs:apple:organizacion:trabajo colaborativo:trabajo equipo:colaboracion:trabajo grupo
+2011-10-21 01:33:07	31	3.5	4	20	2	3	3	0.57735026918963	skype:microsoft:herramientas colaborativas
+2011-10-21 13:32:20	34	4	5	13	2	5	1	0.70710678118655	microsoft:surface:possibilities:mesa digital:multimedia
+2011-10-21 13:58:02	34	3.5	6	15	2	6	1	0.83666002653408	tacit;:explicit:conocimiento:tacito:explicito:conocimientos
+2011-10-21 15:49:07	31	4.4	5	19	3	6	0	0.89442719099992	Redes sociales:facebook:trailer:social media:actualidad:impacto social
+2011-10-21 16:02:33	1	3.8	5	9	2	3	0	0.83666002653408	facebook:social media:Redes sociales
+2011-10-21 19:54:25	30	2.75	4	18	1	4	3	0.95742710775634	timelapse:minecraft:colaboracion:juego
+2011-10-22 01:10:51	31	3.25	4	7	1	4	0	0.95742710775634	Redes sociales:analisis:grafo red social:campana marketing
+2011-10-22 01:18:36	31	4.75	4	13	2	6	0	0.5	iic:Redes sociales:grafo red social:valor de la red social:jose luis iribarren:innovacion
+2011-10-22 16:18:52	33	3.66667	3	14	2	8	0	0.57735026918963	facebook:san francisco:mark zuckerberg:social media:social networking:online communications:marketing:advertising &amp; promotion
+2011-10-23 15:09:12	33	3.8	5	19	4	12	2	1.3038404810405	xero:yammer:group collaboration:team management:business social networking:colaboracion:colaboracion grupal:grupos:trabajo en grupo:ejemplo aplicaciones:caso real:publicidad
+2011-10-23 19:36:10	32	4	3	20	5	6	1	0	google docs:aplicacion:colaboracion:documentos:trabajo en grupo:trabajo colaborativo
+2011-10-23 20:13:27	32	4	4	13	2	7	1	0	zona:desarrollo:proximo:teoria:vigostky:aprendizaje colaborativo:pedagogia
+2011-10-24 14:44:45	34	4.33333	3	12	1	17	1	0.57735026918963	future:home:amigo:eu-amigo:ist-amigo:ambient:intelligence:in-home:networks:pervasive:computing:context-aware:eu-ist:domotica:inteligencia ambiental:casa automatica:casa del futuro
+2011-10-24 15:06:31	34	4	6	22	2	10	1	0.63245553203368	conocimiento:internet:tic:educacion:gestion del conocimiento:colaboracion:grupos:gestion:infografia:historia
+2011-10-24 21:54:40	32	4.16667	6	23	7	8	3	0.75277265270908	gps:red social:aplicacion:colaboracion:gps social:colaboración social:colaboracion grupal:ejemplo aplicaciones
+2011-10-24 22:37:23	35	4	5	16	2	3	0	0	tag:web 2.0:herramientas
+2011-10-24 23:14:28	35	3.4	5	17	1	6	0	1.1401754250991	informacion:evolucion:web 2.0:digg:bookmark:infografia
+2011-10-25 00:45:17	31	5	3	22	2	5	1	0	ajax:javascript:dom:jquery:web 2.0
+2011-10-25 23:27:15	34	4.16667	6	12	2	11	1	0.40824829046386	tabletop:groupware:interaction:technique:cscw:hci:colaboracion:trabajo en equipo:computer suported co-operative work:equipos trabajo cooperativo:ejemplo aplicaciones
+2011-10-26 00:29:13	34	4.2	5	20	3	7	1	0.44721359549996	social:network:Redes sociales:amigos:conexiones:amigos de amigos:contacts
+2011-10-26 11:50:42	34	4.33333	3	12	3	14	1	0.57735026918963	programa:tesis:cedecom:canal:sur:andalucía:privacidad:redes:sociales:facebook:tuenti:internet:documental:seguridad
+2011-10-26 12:27:21	34	4.4	5	17	3	10	3	0.89442719099992	facebook:youtube:twitter:myspace:Redes sociales:estadisticas:valores:impacto social:presentacion:infografia
+2011-10-26 20:29:22	31	4.4	5	15	4	7	0	0.54772255750517	google+:Redes sociales:web 2.0:facebook:google:comparacion:google+ vs facebook
+2011-10-26 21:22:51	35	3.6	5	21	3	4	3	1.1401754250991	oracle:cloud:social:network
+2011-10-27 11:08:05	32	4.2	5	19	6	10	0	0.44721359549996	diaspora:Redes sociales:web 2.0:tecnologia:futuro:p2p:privacidad:seguridad:control informacion:desarrollo independiente
+2011-10-27 12:11:29	34	4.75	4	20	4	17	1	0.5	privacidad:datos personales:Redes sociales:imagen:intimidad:facebook:tuenti:myspace:cartoons:animation:educational:educación:prevencion:seguridad:respeto:privacidad compartida:conciencia
+2011-10-27 12:19:14	32	4.25	4	13	3	5	2	0.95742710775634	jigsaw:colaborativo:ensenanza:technique:presentacion
+2011-10-27 12:28:09	34	4.25	4	14	3	11	1	0.95742710775634	vtr:internet:segura:alerta:web:grooming:cyberbullying:privacidad:acoso:cuidad:control
+2011-10-28 14:25:58	33	4.33333	3	15	4	6	1	0.57735026918963	bill:gates:salman:khan:academy:e-learning
+2011-10-28 15:11:01	33	4.33333	3	16	3	18	0	0.57735026918963	xplane:did you know:the economist:convergence:media convergence:information design:information graphics:visual thinking:visual communication:technology:internet:education:facts:trivia:global:rickroll:shift happens:social media
+2011-10-28 15:32:08	33	3.33333	3	15	2	10	1	0.57735026918963	sensor_network:research:science:perception:ubiquitous:visualization:data_mining:Interface:gesture:merl
+2011-10-28 16:27:53	31	2.5	4	14	1	1	2	1	abp
+2011-10-28 16:45:01	31	3.75	4	16	1	4	2	0.5	bookmark:social media:delicious:webapp
+2011-10-28 18:42:28	30	2	6	19	0	3	2	0.89442719099992	webapp:web 2.0:publicidad
+2011-10-28 19:00:24	30	3.5	4	12	2	7	0	1	facebook:myspace:evolucion:presentacion:Redes sociales:social networks:evolucion redes sociales
+2011-10-28 19:06:15	30	3.75	4	19	4	4	2	0.5	web 2.0:presentacion:ventajas:desventajas
+2011-10-31 10:46:26	30	4.33333	3	18	0	5	1	1.1547005383793	microsoft:futuro:ejemplo aplicaciones:manejo:sistema colaborativo
+2011-10-31 21:23:02	32	3.66667	3	15	2	6	2	0.57735026918963	herramientas:colaborativo:sistema colaborativo:web 2.0:service:documentos compartidos
+2011-10-31 21:54:23	32	4.6	5	31	5	6	2	0.54772255750517	inteligencia colectiva:web 2.0:facebook:colaboracion:colaboracion grupal:trabajo en grupo
+2011-10-31 23:51:01	35	5	3	12	3	4	1	0	inteligencia:colectiva:futbol:documental
+2011-11-02 15:29:48	34	4.5	2	10	1	14	1	0.70710678118655	touch:sensing:tracking:input:multitouch:screen:body:skinput:chris:harrison:hci:uist:realidad aumentada:augmented reality
+2011-11-02 15:40:28	34	4	4	10	1	6	1	0	second life:metaverso:perú:usmp:mundos virtuales:Realidad Virtual
+2011-11-02 16:31:23	1	3.5	2	9	0	5	1	0.70710678118655	dilema del prisionero:robert axelrod:cooperacion:conceptos clave:sociologia
+2011-11-02 16:45:40	1	4	2	14	2	3	1	0	awareness:conceptos clave:ejemplo aplicaciones
+2011-11-02 19:23:36	32	4	3	10	3	5	1	0	Redes sociales:social media:web 2.0:twitter:historia
+2011-11-02 19:29:16	32	3.75	4	10	5	4	1	0.5	coordinacion:eventos:sistema colaborativo:citas
+2011-11-02 20:06:59	31	3.66667	3	10	4	4	1	0.57735026918963	musica colaborativa:sistemas colaborativos:web 2.0:herramientas colaborativas
+2011-11-02 20:28:17	31	5	1	17	1	3	1	0	redes:eduardo punset:inteligencia colectiva
+2011-11-02 22:54:20	35	4	5	26	5	2	3	0	cscl:facebook
+2011-11-03 09:25:16	33	4	3	6	2	12	0	0	enterprise 2.0 launch pad:e2conf-lp:howto:software:technology:management:project management:collaboration:startup:crm:office:business
+2011-11-03 11:04:35	32	4	4	18	5	4	3	0	web 2.0:google:colaboracion:herramientas
+2011-11-03 12:52:56	32	3.66667	3	21	9	6	2	0.57735026918963	Redes sociales:revolution:primavera árabe:twitter:facebook:youtube
+2011-11-04 10:36:18	35	4.33333	3	17	5	4	2	0.57735026918963	aprendizaje:social:colaborativo:experimento
+2011-11-04 11:13:11	35	4.33333	3	21	3	4	1	0.57735026918963	opensocial:api:desarrollo:aplicaciones sociales
+2011-11-04 12:25:59	1	4.5	2	9	0	3	0	0.70710678118655	factor emocional:awareness:conceptos clave
+2011-11-04 12:28:15	1	3	3	20	2	5	0	1	domotica:inteligencia ambiental:ambient intelligence:casa inteligente:in
+2011-11-04 16:17:10	31	4	2	20	3	4	2	1.4142135623731	voip:sistema colaborativo:mobile devices:herramientas colaborativas
+2011-11-04 18:26:19	30	3.66667	3	9	1	2	1	0.57735026918963	marketing:futuro
+2011-11-04 18:29:19	30	3.5	2	15	2	4	1	0.70710678118655	software:development:soa:arquitectura orientada a servicios
+2011-11-04 18:32:36	30	3.5	2	16	0	4	1	0.70710678118655	software:development:soa:arquitectura orientada a servicios
+2011-11-04 18:44:56	30	3	4	19	3	3	5	0.81649658092773	jimmy wales:wikipedia:world heritage
+2011-11-04 19:15:38	30	2.5	2	9	0	7	0	0.70710678118655	myspace:tom:anderson:founder:george:hour:stroumboulopoulos
+2011-11-04 19:16:57	30	4	1	22	0	3	4	0	mark zuckerberg:facebook:entrevista
+2011-11-04 19:30:30	30	2.25	4	10	1	1	0	0.5	star wars
+2011-11-04 22:20:14	35	3.75	4	8	2	4	0	0.5	capital social:comunidad:conceptos:sociologia
+2011-11-04 22:41:01	35	4	2	5	1	5	0	1.4142135623731	capital social:capital creativo:capital intelectual:conceptos:social media
+2011-11-06 15:45:18	35	4	5	17	3	3	3	0	ontologia:conceptos:semantica
+2011-11-06 16:27:04	35	3.5	2	11	1	4	0	0.70710678118655	capital social:facebook:putnam:amigos
+2011-11-06 18:55:11	33	3.75	4	8	2	4	0	0.5	social:search:greplin:review
+2011-11-06 19:46:46	32	4.5	4	9	2	4	1	0.57735026918963	web 2.0:red social:yelp:sistema colaborativo
+2011-11-06 20:22:38	31	3.6	5	9	2	2	1	0.54772255750517	china:social network
+2011-11-07 01:23:00	31	3.66667	3	22	2	2	3	0.57735026918963	web 3.0:semantic web
+2011-11-07 01:29:33	31	5	2	45	2	4	2	0	music:workstation:collaborative:cscw
+2011-11-07 21:36:42	1	3.5	2	22	0	2	0	0.70710678118655	naturaleza:cooperacion
+2011-11-07 21:40:47	1	3.5	2	49	1	2	1	0.70710678118655	naturaleza:cooperacion
+2011-11-08 18:53:26	30	3.5	2	26	1	4	1	0.70710678118655	abejas:inteligencia colectiva:naturaleza:colaboracion
+2011-11-08 18:56:46	30	4	3	34	2	4	2	0	inteligencia colectiva:hormigas:naturaleza:colaboracion
+2011-11-21 16:15:27	33	4	2	8	2	0	0	0	
+2011-11-23 18:05:14	32	4	1	3	1	0	1	0	
+2011-11-23 19:21:35	30	0	0	4	0	0	1	0	
+2011-11-24 02:02:47	34	4	1	7	1	0	1	0	
+2011-11-25 15:30:25	33	4	1	7	1	0	1	0	
+2011-11-25 16:44:56	31	5	1	5	0	0	1	0	
+2011-11-25 16:51:47	31	4	1	9	1	0	2	0	
+2011-11-26 22:38:14	35	4	1	5	0	0	1	0	
+2011-11-26 23:02:41	35	4	2	2	0	0	2	0	
+2011-11-26 23:18:49	35	4	1	1	0	0	1	0	
+2011-11-27 12:30:18	32	0	0	3	1	0	2	0	
+2011-11-27 12:55:38	32	4	2	6	1	0	1	0	
+2011-11-27 14:11:51	32	3	1	4	1	0	1	0	
+2011-11-27 14:12:35	33	4	1	5	1	0	1	0	
+2011-11-27 21:51:05	35	3	1	1	0	0	1	0	
+2011-11-27 22:01:31	35	3	2	5	0	0	1	0	
+2011-11-27 22:12:28	35	4	1	5	0	0	1	0	
+2011-11-27 22:22:16	35	4	1	2	0	0	1	0	
+2011-11-27 22:26:08	35	4	2	4	0	0	1	0	
+2011-11-28 16:55:06	1	0	0	5	0	2	0	0	tutorial:bÃ¡sico
+2011-11-29 18:22:28	1	0	0	7	0	2	2	0	sonidos:trance
+2011-11-29 18:46:20	1	0	0	9	0	2	2	0	music:sonidos
+2011-11-29 20:00:31	30	3	2	4	1	3	3	0	evolucion:Redes sociales:infografia
+2011-12-07 17:26:18	34	0	0	2	0	7	0	0	unir:taller:web:2.0:marcadores:sociales:universidad
+2011-12-08 13:12:45	1	0	0	1	0	14	0	0	pierre:lÃ©vy:futuro:da:investigaÃ§Ã£o:redes:sociais:cibercultura:cybercultura:tutorial:editing:health:educational:escoladeredes
+2011-12-08 13:14:44	1	4	1	4	0	1	1	0	inteligencia colectiva
+2011-12-08 16:08:03	34	0	0	6	0	11	0	0	api:michael callahan:application programming:butterscotch:mobile butterscotch com:tucows:video:tutorial:how to:howto:butterscotchcom
+2011-12-08 23:08:57	34	0	0	4	0	4	1	0	soft:beat:pitak:7777
+2011-12-12 21:24:28	1	0	0	3	1	2	1	0	inteligencia colectiva:experimento
+2011-12-14 23:38:49	34	0	0	2	0	4	1	0	ontology:semantics:spry:knowledge
+2011-12-15 00:01:51	1	0	0	1	0	3	0	0	ontologia:definicion:presentacion
+2011-12-15 00:06:11	34	4	1	3	0	2	1	0	web semantica:rdf
+2011-12-15 00:14:16	34	0	0	2	0	2	1	0	web semantica:inteligencia artificial
+2011-12-15 00:20:51	34	3	1	4	0	2	1	0	web 3.0:web semantica
+2011-12-15 00:21:41	34	0	0	2	0	10	1	0	semantic:web:web2.0:cmn4170:uottawa:mac:vs.:pc:parody:marlenal
+2011-12-15 00:39:49	34	3	1	2	0	1	1	0	web semantica
+2011-12-15 01:47:07	1	0	0	1	0	3	0	0	ontologia:web semantica:ejemplo aplicaciones
+2011-12-15 02:01:40	1	0	0	1	0	2	1	0	rdf:ontologia
+2011-12-15 02:08:54	1	4	1	3	0	2	1	0	web semantica:tim berners-lee
+2011-12-15 02:12:42	1	4	1	2	1	2	1	0	web semantica:tim berners-lee
+2011-12-15 02:29:35	1	0	0	8	1	1	0	0	algoritmos genÃ©ticos
+2011-12-15 02:46:17	1	0	0	1	0	3	0	0	cscw:ejemplo aplicaciones:lotuslive
+2011-12-15 02:52:14	1	0	0	1	0	5	0	0	televiewpointer:workspace awareness:awareness:collaborative 3d:radarview
+2011-12-15 02:55:18	1	0	0	1	0	5	0	0	radarview:fisheye:drag magnifier:two-level:awareness
+2011-12-15 03:11:46	1	5	1	10	1	3	1	0	cscl:jigsaw:tecnicas colaborativas
+2011-12-15 13:47:15	34	0	0	2	0	9	1	0	rdfa:basics:semantic:web:manu:sporny:syntax:primer:msporny
+2011-12-15 17:17:50	35	4	1	6	0	2	1	0	activity:theory
+2011-12-16 16:04:05	31	0	0	4	0	11	2	0	talento:emprendimiento:emprendedora:red social:innovaciÃ³n:colaboraciÃ³n:empresas:profesionales:universidad:redes:ilurus
+2011-12-22 13:19:03	1	0	0	2	0	1	0	0	web 2.0

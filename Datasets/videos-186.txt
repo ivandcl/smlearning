@@ -1,0 +1,307 @@
+created	author	ranking	votes	viewers	annotations	ntags	scripts	sd	tags
+2014-01-30 20:28:29	1	4.5	2	71	1	1	9	0.70710678118655	collaborative learning
+2014-02-18 16:51:54	264	2.66667	3	68	0	2	10	1.5275252316519	jigsaw:técnicas
+2014-02-25 19:15:31	1	3.5	2	25	4	2	10	0.70710678118655	entrevistas:identidad digital
+2014-02-25 19:58:48	1	3.25	4	25	3	4	9	1.2583057392118	identidad digital:privacidad:conciencia social:Redes sociales
+2014-03-02 15:24:38	262	3	6	49	3	1	9	1.4142135623731	Redes sociales
+2014-03-04 12:02:22	265	4	5	32	2	0	9	0.70710678118655	
+2014-03-05 16:02:11	263	4	4	21	2	6	10	0	Redes sociales:presencial:colaboración presencial:collaborative learning:social networks:collaborative larning
+2014-03-08 10:37:30	262	3.25	4	31	2	0	9	1.7078251276599	
+2014-03-08 11:49:40	262	3.75	4	14	0	6	10	0.95742710775634	Redes sociales:técnicas:team work:group study:group work:participation
+2014-03-08 11:50:21	262	4	4	9	0	4	10	0.81649658092773	Redes sociales:group study:case study:learning techniques
+2014-03-08 11:50:47	262	4	3	14	0	6	10	1	collaborative learning:collaborative work:education:group work:group study:feedback
+2014-03-08 12:25:49	262	4.16667	6	16	0	2	10	0.75277265270908	jigsaw:técnicas
+2014-03-09 14:59:04	264	4	5	21	2	1	9	0.70710678118655	Redes sociales
+2014-03-09 15:06:12	264	4.4	5	28	6	1	10	0.54772255750517	social media
+2014-03-09 15:14:18	264	4	5	25	3	4	10	0.70710678118655	social media:active learning:experiences:collaborative learning
+2014-03-09 22:09:56	265	3.75	4	25	3	2	9	0.95742710775634	Redes sociales:técnicas
+2014-03-09 23:18:08	263	3	1	10	0	3	9	0	moodle:social:lms
+2014-03-12 15:54:38	269	3.25	4	16	0	2	10	0.5	Redes sociales:collaborative learning
+2014-03-13 15:10:58	270	3.5	2	21	3	3	8	0.70710678118655	social media:clasificación:social networks
+2014-03-13 17:53:44	269	4.66667	3	21	2	1	9	0.57735026918963	programación colaborativa
+2014-03-13 18:45:23	271	4	3	17	1	2	9	1	Redes sociales:social learning
+2014-03-13 18:50:47	271	3.66667	3	11	1	1	8	0.57735026918963	social media
+2014-03-13 18:56:51	271	2.66667	3	10	1	1	8	1.5275252316519	Redes sociales
+2014-03-13 19:01:17	271	3.5	6	12	1	1	9	0.54772255750517	Redes sociales
+2014-03-13 19:05:27	271	3.57143	7	24	2	2	7	0.97590007294853	social media:tecnologias
+2014-03-13 19:22:00	271	3.33333	3	10	0	3	9	0.57735026918963	social learning:Redes sociales:herramientas
+2014-03-13 19:28:19	263	3.25	4	31	3	6	10	0.5	Redes sociales:concepto:examples:what is it:social networks:social learning
+2014-03-13 19:30:27	263	4.5	4	26	0	3	11	0.57735026918963	power:capabilities:social learning
+2014-03-13 19:44:11	263	4.33333	6	26	5	6	10	0.51639777949432	Redes sociales:psicología:eduard punset:redes:divulgación:ciencia
+2014-03-13 19:50:39	263	4	2	19	2	4	10	1.4142135623731	Redes sociales:social learning theory:theory:study
+2014-03-13 19:52:27	263	3	2	15	0	4	10	0	Redes sociales:social learning theory:social networks:theory
+2014-03-13 21:14:24	264	4	4	8	0	1	9	1.1547005383793	Redes sociales
+2014-03-14 00:26:36	265	4.16667	6	15	1	2	9	0.40824829046386	social media:Redes sociales
+2014-03-14 00:32:40	265	3.5	4	14	0	2	8	0.57735026918963	microblogging:Redes sociales
+2014-03-14 00:41:05	265	3.75	4	18	2	1	9	0.95742710775634	metodo delphi
+2014-03-14 00:48:58	265	4.33333	6	29	8	1	9	0.51639777949432	card sorting
+2014-03-14 02:15:16	270	3.66667	6	31	6	2	8	1.0327955589886	social media:education
+2014-03-14 09:39:31	265	3.75	4	15	0	3	7	0.5	wikis:collaborative learning:social media
+2014-03-14 14:17:53	270	4	4	21	0	2	7	0.81649658092773	lms:blackboard
+2014-03-14 14:40:01	268	3.5	4	15	1	3	9	1	Redes sociales:social life:evolution
+2014-03-14 14:46:49	268	4.625	8	27	8	4	9	0.51754916950677	social media:social revolution:social statistics:epic
+2014-03-14 15:00:15	268	4.33333	6	22	2	2	9	0.51639777949432	mooc:collaborative learning
+2014-03-14 15:11:47	268	3.75	4	22	2	3	8	0.5	social learning:history:herramientas
+2014-03-14 15:26:50	268	4.75	8	25	2	1	10	0.46291004988628	social media history
+2014-03-14 15:33:13	269	3.66667	3	19	1	0	8	0.57735026918963	
+2014-03-14 15:39:40	269	4.14286	7	34	4	2	9	0.69006555934235	socia media:helados
+2014-03-14 17:10:41	270	3.8	5	28	5	2	8	1.3038404810405	virtual world:second life
+2014-03-14 17:48:59	262	3.5	6	16	1	4	9	1.0488088481702	learning techniques:learn by example:exchanging:group study
+2014-03-14 17:56:39	269	3.5	6	20	3	4	9	0.54772255750517	social moodle:moodle:support:social learning
+2014-03-14 18:02:23	262	3.9	10	42	7	3	9	0.73786478737262	collaborative learning:tablets:tecnología
+2014-03-14 19:47:42	264	3.14286	7	23	3	0	9	1.2149857925879	
+2014-03-14 20:36:03	264	3.6	5	14	1	0	7	0.54772255750517	
+2014-03-14 20:45:00	269	3.42857	7	26	6	5	8	0.97590007294853	javawide:programación colaborativa:ide:java:collaborative coding
+2014-03-14 21:52:49	270	4.2	5	23	3	4	9	0.83666002653408	viral:marketing:facebook:advertising
+2014-03-15 16:11:03	270	3.83333	6	24	3	4	9	0.40824829046386	multitouch table:collaborative learning:kids:herramienta
+2014-03-15 16:26:57	270	3.71429	7	26	3	3	8	0.48795003647427	mobile learning:education:classroom
+2014-03-15 23:51:52	265	3.8	5	14	1	3	8	0.83666002653408	collaborative learning:collaborative learning:herramienta
+2014-03-15 23:55:07	265	3.66667	6	22	3	4	8	0.51639777949432	education:collaborative learning:productos:herramienta
+2014-03-16 13:31:25	268	4	8	32	3	4	11	0.53452248382485	social learning theory:vigotsky:enseñanza:social learning
+2014-03-16 13:52:57	268	3.28571	7	18	0	2	9	0.48795003647427	social business:crowdfunding
+2014-03-16 14:11:11	268	4.85714	7	19	3	9	8	0.37796447300923	collaborative learning:collaborative coding:github:collaborative work:social networks:innovation:open source:dubstep:git
+2014-03-16 20:40:08	263	3.42857	7	17	2	5	8	1.2724180205607	social networks:waste time:auto advertisement:exploit social networks:earning money
+2014-03-16 22:22:47	268	4	7	36	8	8	10	0.57735026918963	identidad digital:privacidad:seguridad:Redes sociales:protección de datos:control parental:Redes sociales:social media
+2014-03-17 00:28:48	269	3.5	6	29	5	5	8	1.0488088481702	collaborative learning:Redes sociales:innovation:methodology:group work
+2014-03-17 00:34:53	269	4	6	22	3	6	6	0.89442719099992	cloud computing:web services:web application:cloud:servidores:gestión
+2014-03-17 02:24:14	270	3.66667	6	51	10	7	7	0.81649658092773	big brother:google:privacy:conspiracy:theory:conspiracy theory:information control
+2014-03-17 16:01:18	268	3.85714	7	27	3	4	8	0.69006555934235	crowdfunding:fundraising:recaudación:kickstarter
+2014-03-17 23:09:38	261	4	4	10	1	5	8	0.81649658092773	ted:living networks:social networks:collective emotions:social experience
+2014-03-17 23:11:12	261	3	5	15	0	2	7	0.70710678118655	japón:social media
+2014-03-17 23:16:02	261	2.2	5	15	0	2	8	0.83666002653408	social media:social learning
+2014-03-17 23:17:55	261	4	5	13	0	2	8	1	ted:social networks
+2014-03-17 23:26:13	261	3.66667	9	22	1	2	6	0.70710678118655	lecture:Redes sociales
+2014-03-17 23:26:49	261	4	3	8	1	4	8	1	ted:social networks:evolución:myspace
+2014-03-17 23:50:17	261	2.6	5	13	0	0	7	0.54772255750517	
+2014-03-18 01:59:40	267	3.14286	7	20	2	2	7	1.0690449676497	herramienta:collaborative coding
+2014-03-18 17:48:25	266	4	6	20	2	5	9	0.63245553203368	herramienta:collaborative learning:cloud services:schools:smart
+2014-03-18 17:58:50	266	4	7	28	5	9	7	0.81649658092773	video games:collaboration:minecraft:java:rings:playing:fun:epic:collaborative
+2014-03-18 18:12:35	266	3.5	8	27	3	8	7	0.92582009977255	minecraft:fun:educational:java:social tool:social:collaborative learning:media
+2014-03-18 18:17:28	267	4.4	5	7	0	5	6	0.89442719099992	música:tecnologias:ipad:collaborative learning:ted
+2014-03-18 18:21:59	267	3.8	5	8	0	2	6	0.44721359549996	música:study
+2014-03-18 18:23:46	266	3.625	8	17	2	3	7	0.9161253813129	social learning:methodology:collaborative independent learning
+2014-03-18 18:29:20	266	2.75	8	9	0	3	7	0.88640526042792	collaborative learning:classroom:schools
+2014-03-18 18:30:27	266	3.14286	7	10	2	7	6	0.69006555934235	epic:world of warcraft:virtual world:collaborative learning:video games:social networks:Redes sociales
+2014-03-18 18:32:49	266	3.83333	6	10	0	5	7	1.16904519445	minecraft:java:video games:collaborative learning:education
+2014-03-18 18:35:21	266	4	5	19	5	4	7	1.2247448713916	minecraft:education:video games:collaborative learning
+2014-03-18 18:39:08	266	3.83333	6	13	1	4	8	0.75277265270908	herramienta:collaborative learning:smart:classroom
+2014-03-18 18:39:37	266	3.85714	7	13	1	5	8	0.69006555934235	smart:herramienta:collaborative learning:schools:classroom
+2014-03-18 18:41:38	262	3.55556	9	21	2	3	7	1.4240006242196	conductismo:education:learning theory
+2014-03-18 18:42:01	267	3.90909	11	18	1	3	6	0.94387980744854	wikis:wikipedia:history
+2014-03-18 18:49:10	267	3.71429	7	11	2	4	6	1.4960264830862	twitch:pokemon:collaborative work:playing
+2014-03-18 19:11:34	267	4	9	31	8	5	7	0.86602540378444	social media:coca-cola:advertising:social revolution:epic
+2014-03-18 19:13:30	262	3.88889	9	17	0	4	7	0.78173595997057	vygotsky:zone proximal development:collaborative learning:learning theory
+2014-03-18 19:21:47	267	3.8	5	10	2	5	6	1.3038404810405	tablets:multitouch table:autism:collaborative learning:tecnologias
+2014-03-18 20:28:08	265	3.33333	3	7	1	2	6	1.1547005383793	creativity:planification
+2014-03-18 20:32:16	265	3.6	5	31	6	4	6	1.1401754250991	future:microsoft:classroom:prediction
+2014-03-18 22:46:57	270	3.5	4	15	0	2	6	0.57735026918963	social media:social revolution
+2014-03-19 01:32:21	270	2.66667	3	7	0	0	3	1.5275252316519	
+2014-03-19 01:55:47	270	4	3	19	0	2	3	0	future education:evolution
+2014-03-19 02:15:27	261	3.5	2	7	0	1	4	0.70710678118655	Redes sociales
+2014-03-19 10:19:51	264	4	6	22	4	4	4	0.63245553203368	motivation:khan academic:collaborative learning:future education
+2014-03-19 10:28:17	264	3.28571	7	25	7	2	4	1.3801311186847	education:motivacion
+2014-03-19 10:53:15	264	3	3	10	0	2	4	0	innovation:collaborative work
+2014-03-19 11:18:37	264	3.6	5	15	1	2	4	0.54772255750517	barriers:collaboration
+2014-03-19 14:46:36	268	3.33333	6	39	4	5	5	1.0327955589886	twitter:collaborative learning:future education:social learning:recorded with potato
+2014-03-19 17:29:19	265	3.6	5	16	1	3	1	0.54772255750517	education:future education:blended learning
+2014-03-19 17:30:40	264	3.33333	3	11	0	0	2	0.57735026918963	
+2014-03-20 00:02:06	265	3.4	5	9	0	3	2	0.54772255750517	collaborative learning:learning techniques:think pair share
+2014-03-20 00:06:02	265	3.8	5	11	0	3	2	0.83666002653408	collaborative learning:brainstorm:técnicas
+2014-03-20 10:43:26	1	2.5	4	24	2	3	1	1.4142135623731	sna:analysis:Redes sociales
+2014-03-21 12:33:54	264	4.57143	7	20	4	2	2	0.53452248382485	learning:future
+2014-03-21 15:56:29	271	3.25	4	4	0	0	1	0.5	
+2014-03-21 16:17:02	271	2.66667	6	8	0	2	1	1.211060141639	vygotsky:aprendizaje social
+2014-03-21 16:23:36	271	3	7	9	0	3	1	0.57735026918963	social learning:vygotsky:interaction
+2014-03-21 16:33:19	271	3.33333	6	8	0	6	1	0.51639777949432	collaboration:social learning:aprendizaje social:classroom:feedback:social media
+2014-03-21 16:36:07	271	3.33333	6	11	0	2	1	0.51639777949432	social learning:collaborative
+2014-03-23 23:07:21	267	3.4	5	26	1	3	3	0.54772255750517	Redes sociales:privacidad:riesgos
+2014-03-24 17:53:51	267	4.57143	7	13	2	3	3	0.78679579246944	Redes sociales:riesgos:privacidad
+2014-03-24 18:06:30	267	2.33333	3	7	0	3	2	1.5275252316519	Redes sociales:riesgos:conspiracy
+2014-03-24 18:41:21	267	3	3	8	1	1	2	1	Redes sociales
+2014-03-25 01:03:29	269	3.5	4	7	0	2	1	1	social:web
+2014-03-25 01:08:38	269	4	4	7	1	1	1	0.81649658092773	anti social
+2014-03-25 01:13:33	269	4.5	2	10	0	2	1	0.70710678118655	social media:experiment
+2014-03-25 15:22:19	271	3.75	4	5	0	1	2	0.95742710775634	aprendizaje social
+2014-03-25 15:24:26	271	4.33333	3	13	0	1	1	0.57735026918963	collective emotions
+2014-03-25 21:35:55	271	4	4	4	0	0	3	0	
+2014-03-25 21:41:37	271	4	3	7	0	0	3	0	
+2014-03-25 22:02:50	271	3.33333	3	13	0	1	2	0.57735026918963	aprendizaje colaborativo
+2014-03-25 22:48:29	271	3.66667	3	5	0	2	2	0.57735026918963	aprendizaje colaborativo:collaborative learning
+2014-03-26 01:56:11	271	3.66667	3	9	0	0	2	0.57735026918963	
+2014-04-03 21:46:43	265	4.5	2	5	0	2	2	0.70710678118655	collaborative learning:tablets
+2014-04-03 21:49:30	265	3	1	5	0	4	2	0	collaborative learning:education:future education:tablets
+2014-04-03 21:59:41	264	4	3	17	0	2	3	1.7320508075689	colaboración:tecnología
+2014-04-03 22:08:28	265	3	2	4	0	3	2	1.4142135623731	tecnología:education:history
+2014-04-03 22:10:11	264	4.33333	3	18	0	2	2	1.1547005383793	colaboración:tecnología
+2014-04-03 22:11:58	265	3	2	4	0	3	2	1.4142135623731	tecnología:education:future education
+2014-04-03 22:24:08	264	4.66667	3	16	0	3	2	0.57735026918963	microsoft:tecnología:colaboración
+2014-04-05 15:35:16	266	4	2	4	0	1	1	0	minecraft
+2014-04-08 12:38:04	265	3.75	4	5	0	3	2	0.95742710775634	tablets:collaborative:education
+2014-04-08 12:40:23	265	3.25	4	5	0	3	1	0.95742710775634	education:tablets:collaborative learning
+2014-04-08 12:45:09	265	3.66667	3	6	0	4	1	0.57735026918963	sharing notes:collaborative learning:tablets:apps
+2014-04-08 18:59:02	1	3.75	4	4	0	2	1	0.5	frameworks:collaborative
+2014-04-08 19:15:37	1	4	2	3	0	3	1	1.4142135623731	real-time collaborative:documents:examples
+2014-04-08 19:20:38	1	3.75	4	11	1	1	1	1.2583057392118	awareness mechanisms
+2014-04-09 11:11:03	271	3.25	4	7	0	0	2	0.5	
+2014-04-09 11:14:51	271	3.8	5	13	1	0	2	0.83666002653408	
+2014-04-09 11:18:09	271	3.5	4	5	0	0	1	1.2909944487358	
+2014-04-09 11:39:34	271	3.5	4	9	0	3	2	0.57735026918963	soap:rest:web architecture
+2014-04-09 11:51:37	271	3.33333	3	8	0	2	2	1.5275252316519	social application:cloud
+2014-04-09 11:53:13	271	3	3	6	0	0	1	0	
+2014-04-09 11:57:23	271	4	4	8	0	0	3	0	
+2014-04-09 12:02:23	271	3	4	6	0	2	1	0.81649658092773	smart boards:businness
+2014-04-09 23:28:12	1	4	4	4	0	3	1	1.1547005383793	Aleman:3d teleconferencing:communication
+2014-04-09 23:32:24	1	4	3	3	0	2	1	1	3d teleconferencing:comunication
+2014-04-13 12:13:15	265	3.2	5	7	0	3	2	0.44721359549996	blackboard:collaborative learning:social learning
+2014-04-13 12:16:25	265	3	2	4	0	3	2	1.4142135623731	blackboard:social learning:collaborative learning
+2014-04-13 12:18:06	265	3.33333	3	3	0	2	1	0.57735026918963	blackboard:collaborative learning
+2014-04-13 12:21:25	265	3.4	5	6	0	2	1	0.54772255750517	communication:blackboard
+2014-04-13 12:26:17	265	3.75	4	8	0	4	3	0.95742710775634	social learning:social media:collaborative learning:education
+2014-04-13 12:28:54	265	4.28571	7	14	3	2	2	0.75592894601845	social tv:collaborative
+2014-04-13 12:31:38	265	3.5	6	15	3	1	2	0.54772255750517	social tv
+2014-04-13 23:40:16	262	3.6	5	11	0	4	2	1.1401754250991	web 2.0:collaboration:social learning:sharing
+2014-04-13 23:51:59	262	4	5	13	1	3	2	1	web 2.0:semantic web:internet
+2014-04-14 00:02:45	262	2.2	5	11	0	3	2	1.0954451150103	web 2.0:e goverment:internet
+2014-04-14 00:07:56	262	3.57143	7	10	0	2	2	0.97590007294853	web 2.0:categorization
+2014-04-14 00:11:10	262	4	4	12	0	2	2	1.1547005383793	mobile tools:web 2.0
+2014-04-14 00:16:30	262	3.66667	3	5	0	2	1	1.1547005383793	web 2.0:video tools
+2014-04-14 00:17:39	262	3.75	4	15	0	2	2	0.95742710775634	web 2.0:comunity tools
+2014-04-14 00:19:37	262	3.8	5	12	0	2	2	0.83666002653408	web 2.0:presentation tools
+2014-04-14 00:25:27	262	3.57143	7	20	2	2	2	0.97590007294853	web 2.0:e goverment
+2014-04-14 00:37:44	262	3.66667	6	22	1	3	2	0.81649658092773	web 2.0:marketing:saas
+2014-04-15 11:49:01	263	4.2	5	8	0	2	2	0.83666002653408	twitter:tv
+2014-04-15 11:50:33	263	3.83333	6	12	2	4	2	0.98319208025018	twitter:tv:data visualization:advertising
+2014-04-16 10:16:53	265	3.25	4	4	0	5	2	0.5	social tv:social application:colaboración:social networks:social media
+2014-04-16 10:18:05	265	2.75	4	5	1	4	2	1.2583057392118	social tv:tablets:social media:social networks
+2014-04-16 10:20:02	265	3.5	6	17	5	3	2	1.0488088481702	social tv:social media:social networks
+2014-04-16 10:20:58	265	4.4	5	13	2	3	2	0.54772255750517	social tv:social media:social networks
+2014-04-16 10:23:26	265	4	7	10	2	4	2	0.57735026918963	social tv:social media:social networks:collaboration
+2014-04-16 11:57:35	271	4.33333	6	11	1	0	3	0.51639777949432	
+2014-04-16 12:02:09	271	4	7	12	3	2	3	0.57735026918963	crowdfunding:tips
+2014-04-16 12:26:47	271	3.4	5	6	0	0	1	0.54772255750517	
+2014-04-16 12:32:00	271	3.33333	3	7	2	0	1	0.57735026918963	
+2014-04-16 12:39:14	271	3.71429	7	13	1	2	1	0.75592894601845	tablets:whiteboard system
+2014-04-16 12:53:34	271	3.2	5	8	0	2	2	0.83666002653408	smart table:collaborative learning
+2014-04-16 13:03:48	271	4.2	5	6	2	2	1	0.83666002653408	collaborative learning:plattform
+2014-04-16 16:57:52	264	4.71429	7	32	7	6	3	0.48795003647427	tecnología:tecnología inteligente:futuro:future:house:interactive
+2014-04-16 17:07:56	264	3.6	5	18	0	5	2	0.89442719099992	collaboration:bussines:enterprise:competitive:technology
+2014-04-16 17:14:03	264	3.75	4	14	1	2	3	0.95742710775634	future education:technology
+2014-04-16 18:05:35	264	4.2	5	23	1	5	3	0.83666002653408	autism:technology:help:learning:environment
+2014-04-16 18:13:51	264	4.33333	6	21	5	2	2	0.81649658092773	future:technology
+2014-04-16 18:18:26	264	4.6	5	22	1	0	4	0.54772255750517	
+2014-04-16 18:25:17	264	4	5	30	0	3	2	1	scrum:technology:collaborative
+2014-04-18 10:46:18	263	3.5	4	8	1	3	1	1.2909944487358	dedos:colaboración presencial:mesa multitouch
+2014-04-18 10:47:11	263	4	3	6	0	3	1	1	dedos:colaboración presencial:mesa multitouch
+2014-04-18 10:49:08	263	3.5	4	8	0	2	2	1.2909944487358	mesa multitouch:colaboración presencial
+2014-04-18 11:07:58	263	3.75	4	8	1	2	1	0.5	blablacar:sharing
+2014-04-18 11:13:21	263	3.66667	3	6	1	2	1	0.57735026918963	couchsurfing:sharing
+2014-04-18 11:15:28	263	3.5	4	9	1	3	1	0.57735026918963	homeforhome:intercambio de casas:sharing
+2014-04-18 11:19:34	263	3.75	4	7	1	3	2	0.95742710775634	chromecast:social tv:sharing
+2014-04-20 16:57:52	270	4	6	35	5	2	3	0.63245553203368	crowdsourcing:crowdfunding
+2014-04-20 17:11:37	270	3.8	5	11	3	2	0	0.44721359549996	government 2.0:new media
+2014-04-20 17:23:58	270	3.5	2	7	1	2	0	0.70710678118655	government 2.0:social media
+2014-04-20 23:54:25	269	3.66667	3	8	0	1	0	1.1547005383793	government 2.0
+2014-04-21 00:06:05	269	3.66667	3	7	1	3	1	1.5275252316519	government:new media:web 2.0
+2014-04-21 00:09:14	269	3.5	6	11	1	2	1	1.0488088481702	kickstarter:crowdfunding
+2014-04-21 07:36:04	268	2.75	4	6	0	4	1	0.5	acme:augmented reality:collaboration:second life
+2014-04-21 07:39:35	268	3.5	4	5	0	4	1	0.57735026918963	augmented reality:cmar:collaborative:mobile
+2014-04-21 07:42:58	268	3.6	5	11	1	4	2	0.54772255750517	collaborative:augmented reality:video games:invisible train
+2014-04-21 07:46:56	268	3.4	5	6	0	4	1	0.54772255750517	art defense:collaborative:augmented reality:video games
+2014-04-21 07:54:44	268	4	3	5	0	3	0	1	sap:augmented reality:mobile app
+2014-04-21 08:01:48	268	3.5	4	5	0	2	0	0.57735026918963	government 2.0:pros cons
+2014-04-21 08:15:22	268	3.5	4	5	1	3	0	0.57735026918963	blackboard:pizarra digital:interactive blackboard
+2014-04-21 13:29:12	270	3.33333	3	9	1	2	1	1.1547005383793	social finance:investment
+2014-04-21 13:40:12	270	3.8	5	15	2	2	0	0.83666002653408	social commerce:social consumer
+2014-04-21 14:33:44	271	3	4	4	0	2	0	0.81649658092773	communication:collaboration
+2014-04-21 14:41:47	271	3.25	4	7	0	2	0	0.5	networked society:lolcat
+2014-04-21 14:49:10	271	3.33333	3	7	1	1	1	0.57735026918963	collaborative learning
+2014-04-21 15:21:45	271	3	4	7	0	2	1	0.81649658092773	collaboration:productivity
+2014-04-21 15:51:06	271	3.66667	6	12	1	1	2	0.51639777949432	collaboration
+2014-04-21 16:16:25	271	3.5	4	4	0	2	0	1.2909944487358	community;:religion
+2014-04-21 16:19:10	271	4	4	4	1	1	0	0.81649658092773	collaboration tools
+2014-04-21 16:19:56	271	3.33333	3	4	2	2	1	0.57735026918963	collaboration tools:tips
+2014-04-21 16:21:07	271	3	4	9	1	3	1	0.81649658092773	technology:classroom:digital media
+2014-04-21 16:21:46	271	3.75	4	6	1	1	1	0.5	collaboration tools
+2014-04-21 16:23:51	271	3.2	5	7	2	3	0	0.44721359549996	collaboration tools:students:sharing
+2014-04-21 16:38:09	268	3.57143	7	11	3	4	1	0.53452248382485	maps:android:collaboration:collaborative
+2014-04-21 17:25:54	268	4	5	10	2	2	1	1	collaboration:crowdsourcing
+2014-04-21 17:31:03	268	3.625	8	9	2	4	1	0.74402380914284	jelly bean:crowdsourcing:wisdom:inteligencia colectiva
+2014-04-21 17:54:41	268	4	5	6	0	3	0	1	mobile collaboration:cisco:collaborative video
+2014-04-21 18:00:45	268	3.4	5	7	3	5	1	0.54772255750517	waze:collaboration:maps:traffic:real time
+2014-04-21 18:46:23	268	4	4	7	2	3	1	0.81649658092773	collaborative tv:social tv:chillout
+2014-04-22 01:04:45	270	4	4	11	3	6	1	0	internet of things:future house:internet:future devices:dubstep:future
+2014-04-22 01:25:20	270	3.66667	6	19	6	5	0	0.51639777949432	collaboration:instant meeting:enterprise:web:siemens
+2014-04-22 11:57:10	270	3.625	8	21	2	1	2	0.51754916950677	crowdsourcing
+2014-04-22 17:17:21	269	3.75	4	9	2	3	1	0.5	microsoft surface:tactil:smart table
+2014-04-22 17:21:23	269	2.2	5	8	1	5	0	1.3038404810405	future:future devices:life 2050:conspiracy theory:advertising
+2014-04-22 17:24:23	266	3.28571	7	13	5	6	1	0.48795003647427	augmented reality:video games:fun:useless:3d:design
+2014-04-22 17:26:08	269	3.33333	3	6	0	5	1	0.57735026918963	surface:education:microsoft:advertising:indie music
+2014-04-22 17:31:12	269	2.5	6	12	1	2	1	0.83666002653408	colaboración:web 2.0
+2014-04-22 17:31:14	268	3.6	5	19	4	7	3	0.54772255750517	realidad aumentada:augmented reality:pioneer:navegación:crowdsourcing:navegation:driving
+2014-04-22 17:34:49	266	3.5	6	11	3	5	1	0.54772255750517	video games:3d:augmented reality:fun:useless
+2014-04-22 18:16:20	269	2.4	5	9	1	2	2	0.89442719099992	social media:augmented reality
+2014-04-22 18:19:21	269	3.66667	6	12	3	3	3	0.81649658092773	augmented reality:apps:ted
+2014-04-22 18:29:49	268	4.4	5	18	4	10	3	0.54772255750517	crowdsourcing:recaptcha:cool music:wikipedia:soundcloud:kickstarter:youtube:amazon:crowdfunding:twitter
+2014-04-22 18:35:34	269	4.2	5	8	1	2	1	0.44721359549996	ted:augmented reality
+2014-04-22 22:07:42	261	4	3	3	1	3	0	1	colaboración:interfaces digitales:collaborative learning
+2014-04-22 22:10:48	261	3.5	2	2	0	2	0	0.70710678118655	social learning:social technologies
+2014-04-22 22:26:34	261	0	0	3	0	2	2	0	ted:crowdfunding
+2014-04-22 22:27:25	261	4	1	1	0	2	0	0	ted:web 2.0
+2014-04-22 22:28:38	261	4	1	1	0	2	0	0	ted:multitouch
+2014-04-22 22:30:35	261	3.33333	3	3	0	1	0	0.57735026918963	multitouch
+2014-04-22 22:36:16	261	4.2	5	5	2	2	1	0.83666002653408	ted:augmented reality
+2014-04-23 00:19:12	266	3.66667	3	7	2	6	2	0.57735026918963	augmented reality:frameworks:collaboration:distributed:video games:fun
+2014-04-23 00:35:06	266	4	3	5	1	6	1	1	creepy look:definitions:simple explanation:web 2.0:web 1.0:augmented reality
+2014-04-23 00:39:13	269	4.4	5	9	3	3	1	0.89442719099992	tactile rendering:touch surface:tablets
+2014-04-23 00:51:13	269	3.8	5	8	3	4	1	0.44721359549996	multitouch:car:control:touch screen
+2014-04-23 01:01:25	269	4.2	5	11	2	3	1	0.83666002653408	touchscreen:tactil:retro
+2014-04-23 01:06:39	266	4.5	2	6	0	1	1	0.70710678118655	web 2.0
+2014-04-23 01:13:59	266	4	3	4	1	4	1	1	gobierno 2.0:canarias 2.0:Redes sociales:web 2.0
+2014-04-23 01:14:47	269	4	4	8	1	4	1	0.81649658092773	tactil:touchscreen:retro:3.5 diskettes
+2014-04-23 01:35:01	266	4.25	4	7	0	5	1	0.5	politica:gobierno 2.0:web 2.0:Redes sociales:interaction
+2014-04-23 12:48:33	265	3.8	5	13	0	3	2	0.44721359549996	education:learning techniques:tablets
+2014-04-23 15:27:09	265	3.5	4	10	0	2	1	0.57735026918963	education:collaborative learning
+2014-04-23 15:32:50	265	3.6	5	12	0	4	1	0.89442719099992	mobile tools:education:ict:cool music
+2014-04-23 16:26:22	269	3.2	5	16	3	4	1	0.83666002653408	virtual:virtualtriage:multitouch:multitouch table
+2014-04-23 16:26:26	268	4	4	10	2	6	1	0.81649658092773	types:rewards:donations:crowdfunding:equity:debt-based
+2014-04-23 16:30:46	269	2.33333	3	7	0	3	1	1.5275252316519	touchscreen:retro:hallucinogen
+2014-04-23 16:41:01	269	4	3	6	3	2	1	1	reactable:multitouch
+2014-04-23 16:43:01	269	3.66667	3	5	0	3	1	1.1547005383793	reactable:collaborative:collaboration
+2014-04-23 16:54:30	271	2.33333	3	8	3	2	1	1.5275252316519	social network:disadvantages
+2014-04-23 16:55:12	269	3.66667	3	6	1	1	1	1.1547005383793	touchscreen
+2014-04-23 16:59:12	264	4.25	4	18	5	2	0	0.95742710775634	tecnología:wrong use of technology
+2014-04-23 17:07:44	268	3	3	6	1	2	1	1	prosper:crowdfunding
+2014-04-23 17:09:08	271	2	3	4	0	2	1	1.7320508075689	social networks:pros cons
+2014-04-23 17:22:13	271	3.5	4	6	0	2	1	0.57735026918963	social networks:advantages
+2014-04-23 17:31:40	271	1.33333	3	6	0	1	0	0.57735026918963	riesgos
+2014-04-24 20:04:45	264	3.66667	3	3	0	1	0	1.1547005383793	the internet of things
+2014-04-24 20:09:17	264	3.75	4	14	1	1	0	0.95742710775634	click to edit
+2014-04-25 01:02:56	266	3.25	4	5	1	2	1	0.5	augmented reality:simple explanation
+2014-04-25 02:51:50	266	4.14286	7	10	5	5	1	0.69006555934235	augmented reality:ikea:fun for the whole family:fun:apps
+2014-04-25 03:00:05	266	3.83333	6	6	0	3	1	0.75277265270908	augmented reality:apps:examples
+2014-04-25 12:36:10	264	4.2	5	10	3	1	2	1.3038404810405	click to edit
+2014-04-25 12:44:49	264	4.25	4	8	2	3	1	0.95742710775634	technology:future house:web of things
+2014-04-25 12:56:51	264	3.66667	3	6	1	1	1	1.5275252316519	click to edit
+2014-04-25 12:58:36	264	3.8	5	8	1	4	1	0.83666002653408	technology:robots:lego:internet of things
+2014-04-25 13:04:00	264	3.4	5	13	1	3	1	1.1401754250991	web of things:plataform:technology
+2014-04-25 13:11:40	264	4	5	12	3	4	1	0.70710678118655	innovation:funny:internet of things:wireless sensor networks
+2014-04-25 13:19:49	264	3.33333	6	11	0	1	2	1.211060141639	click to edit
+2014-04-25 13:25:32	264	4.2	5	10	1	2	1	0.83666002653408	internet of things:technology
+2014-04-25 15:15:59	264	3.5	4	27	2	1	0	0.57735026918963	click to edit
+2014-04-25 18:02:09	263	3.66667	3	5	0	2	0	1.1547005383793	mesa multitouch:amilab
+2014-04-25 18:02:37	263	4	3	3	1	1	0	1	click to edit
+2014-04-25 18:03:13	263	3.5	2	4	1	2	0	0.70710678118655	ambient intelligence:cool music
+2014-04-25 18:04:14	263	4	2	6	0	2	0	1.4142135623731	click to edit:ambient intelligence
+2014-04-26 00:02:53	266	4	3	3	0	3	0	1	epic:augmented reality:future
+2014-04-26 00:04:44	266	3.75	4	5	1	2	0	0.5	augmented reality:apps
+2014-04-26 19:59:40	264	3.75	4	6	0	1	0	0.95742710775634	click to edit
+2014-04-27 11:08:08	267	2.66667	3	3	0	4	0	0.57735026918963	click to edit:social tv:smart tv:samsung
+2014-04-27 11:16:57	267	3	3	4	1	4	1	1	click to edit:social tv:smart tv:samsung
+2014-04-27 11:33:48	267	3	3	4	2	3	1	0	smart tv:social tv:social media
+2014-04-27 12:04:13	267	3.75	4	4	2	5	1	0.95742710775634	click to edit:hbbtv:smart tv:social tv:technology
+2014-04-27 12:18:40	267	3.5	4	18	1	3	1	0.57735026918963	tv:social networks:social media
+2014-04-28 21:12:21	261	3.5	2	4	0	1	1	0.70710678118655	click to edit
+2014-04-28 23:21:23	266	4	1	2	0	5	0	0	click to edit:augmented reality:future:evolution:information
+2014-04-28 23:23:29	266	3	2	4	0	4	0	0	augmented reality:dubstep:apps:demo
+2014-04-28 23:49:55	271	4	1	3	0	1	1	0	risks
+2014-04-29 00:36:01	271	4	1	13	0	2	1	0	click to edit:web 2.0

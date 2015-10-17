@@ -1,0 +1,213 @@
+created	author	ranking	votes	viewers	annotations	ntags	scripts	sd	tags
+2013-01-22 22:12:58	1	3.75	4	25	2	4	2	0.95742710775634	eduard punset:Redes sociales:datos generales:difusión de información
+2013-01-24 17:21:42	231	3	1	13	1	2	1	0	Redes sociales:opensocial
+2013-02-04 10:38:29	1	4	1	6	0	2	1	0	eduard punset:Redes sociales
+2013-02-04 10:38:57	1	5	2	26	1	2	1	0	eduard punset:Redes sociales
+2013-02-06 17:21:01	233	4	1	11	3	2	1	0	social networks:estadistica
+2013-02-06 17:24:26	236	5	1	5	0	0	0	0	
+2013-02-06 17:25:27	236	5	1	3	0	0	0	0	
+2013-02-06 17:25:43	238	2.5	2	8	0	0	0	2.1213203435596	
+2013-02-06 17:26:21	238	3	1	29	1	1	3	0	informativo
+2013-02-06 17:28:30	231	0	0	22	0	0	1	0	
+2013-02-06 17:29:14	231	4	1	17	1	0	1	0	
+2013-02-06 17:51:08	241	5	2	4	2	1	0	0	transmitir valores
+2013-02-07 00:58:12	235	4.33333	3	25	1	2	1	1.1547005383793	tag:interesante
+2013-02-07 01:17:54	241	4	1	4	1	3	0	0	tag:tag:tutorial
+2013-02-07 01:42:44	241	4.5	2	35	2	3	1	0.70710678118655	tag:tag:web 2.0
+2013-02-07 02:10:52	235	3.66667	3	16	2	1	1	2.3094010767585	tag
+2013-02-07 14:07:30	234	4	2	27	2	4	1	0	tag:tag:tag:habilidades
+2013-02-07 20:14:25	241	0	0	9	0	1	1	0	tag
+2013-02-07 22:38:21	232	3.75	4	21	6	5	0	1.2583057392118	tag:proactivo:modelos educativos:interdependencia:informativo
+2013-02-07 22:51:09	238	2	1	2	1	2	0	0	tag:esfuerzo de aprendizaje
+2013-02-07 22:53:33	238	0	0	5	1	1	0	0	tag
+2013-02-07 22:54:19	238	4.33333	3	8	3	1	0	0.57735026918963	tag
+2013-02-07 22:54:34	238	3.33333	3	12	3	2	0	1.5275252316519	tag:educación personalizada
+2013-02-07 23:11:03	232	2.33333	3	15	5	2	1	1.1547005383793	mlearning:mlearning herramienta
+2013-02-08 00:26:09	233	3	2	9	2	4	0	2.8284271247462	tag:pierre dillenbourg:blended learning:complejo
+2013-02-08 00:38:10	233	5	3	14	2	6	1	0	tag:yannis dimiatriadis:cscl:educación:hacer colaboración:adaptación
+2013-02-08 01:57:49	241	2.75	4	33	4	3	1	1.5	tag:tag:sociedad del conocimiento
+2013-02-11 04:21:15	241	3.66667	3	20	2	3	2	1.5275252316519	tag:snci:esencia 2.0
+2013-02-12 01:04:38	235	4.66667	3	8	3	5	1	0.57735026918963	tag:tag:blended learning:proyecto uned:excelente seminario
+2013-02-12 13:22:10	232	3	2	15	2	2	0	1.4142135623731	tag:tradionalista
+2013-02-12 18:33:09	240	4	3	12	3	3	0	1	paradigmas:pionero:colono
+2013-02-14 02:29:01	235	5	1	3	0	3	1	3.5355339059327	tag:tag:tics e innovaciÓn
+2013-02-14 02:30:04	235	2.66667	3	9	2	4	1	2.0816659994661	tag:tag:intereses compartidos:compartir
+2013-02-14 02:41:23	235	4.5	2	12	2	4	2	2.6457513110646	tag:tag:herramientas colaborativas:definiciones
+2013-02-14 02:42:39	235	4.8	5	15	3	6	2	0.44721359549996	tag:tag:futuro elearning:futuro e-learning:tecnología:futurista
+2013-02-14 10:59:36	234	3	1	7	1	3	1	0	tag:tag:impacto
+2013-02-14 11:02:40	234	1	1	5	1	1	1	0	tag
+2013-02-14 12:34:12	234	4.5	2	6	1	2	1	0.70710678118655	tag:evoluciÓn
+2013-02-14 12:52:42	234	3	1	19	1	2	1	0	tag:reflexiÓn
+2013-02-14 13:49:04	234	3	2	15	2	2	1	0	red social:colaboración
+2013-02-14 14:21:20	234	3.4	5	13	4	4	1	1.5165750888103	tag:wiki:interfaz:entretenido
+2013-02-21 00:26:08	238	2.5	2	22	2	3	1	0.70710678118655	Redes sociales:reflectivo:impacto
+2013-02-21 01:03:02	236	4	2	4	1	6	1	1.4142135623731	tag:tag:tag:tag:cscl:herramientas colaborativas
+2013-02-21 01:06:57	236	3.33333	3	7	1	2	1	1.5275252316519	tag:cooperativo en el aula
+2013-02-23 17:01:47	241	5	1	18	3	4	2	0	tag:muy instructivo:educación digital:web social
+2013-02-23 19:28:04	241	2	1	3	1	4	1	0	tag:tag:tag:bajo nivel
+2013-02-23 23:50:35	241	0	0	3	0	2	1	0	tag:tag
+2013-02-24 11:44:05	236	5	1	3	0	2	0	0	tag:la base del aprendizaje
+2013-02-24 11:46:07	236	4	3	11	3	4	1	1	tag:tag:interesante y comprometido:reciprocidad
+2013-02-24 11:59:27	236	3.5	4	12	3	3	1	1.7320508075689	tag:competencias:objetivos
+2013-02-24 12:18:33	236	4	5	19	3	4	2	0.70710678118655	tag:tareas:comparativo:resistencia al cambio
+2013-02-24 12:49:35	241	1	1	12	1	1	1	0	tag
+2013-02-25 00:59:13	234	1	2	28	2	1	1	0	animacion
+2013-03-03 23:29:06	233	4	2	12	3	3	1	0	tag:cscl:herramientas colaborativas
+2013-03-06 17:56:31	238	4	2	10	2	4	1	1.4142135623731	tag:impacto:Redes sociales:paradigma
+2013-03-10 16:26:14	232	3.66667	3	10	2	2	1	1.5275252316519	tag:motivación de futuro
+2013-03-10 18:50:00	233	3	1	5	1	3	1	0	tag:cscl:mlearning herramienta
+2013-03-10 19:24:53	238	3	1	4	2	5	0	0	tag:tag:Redes sociales:impacto:autenticación
+2013-03-10 20:03:00	238	3.5	2	16	2	4	1	2.1213203435596	tag:impacto:Redes sociales:comunicación global
+2013-03-10 20:45:45	238	2.5	2	9	2	3	1	0.70710678118655	tag:información:Redes sociales
+2013-03-10 21:15:01	238	3	1	4	2	4	0	0	tag:social media:Redes sociales:reputaciÓn online
+2013-03-11 00:13:32	241	2	1	3	1	4	1	0	tag:tag:tag:miedo al cambio
+2013-03-11 20:10:02	233	4	1	4	1	4	1	0	tag:cscl:l2l2:mlearning herramienta
+2013-03-11 20:29:48	233	4	2	9	2	3	1	0	tag:cscl:mlearning herramienta
+2013-03-11 23:42:37	232	1	1	18	0	2	1	0	tag:tag
+2013-03-12 00:28:38	1	0	0	5	0	2	1	0	big data:Redes sociales
+2013-03-12 00:30:24	1	0	0	2	0	2	1	0	big data:Redes sociales
+2013-03-12 00:34:52	1	0	0	3	0	2	1	0	analisis de redes sociales:Redes sociales
+2013-03-12 00:39:29	1	0	0	2	0	2	0	0	teoria de grafos:Redes sociales
+2013-03-12 00:41:42	1	2	1	5	0	2	1	0	Redes sociales:educación
+2013-03-12 00:46:08	1	5	1	2	0	2	1	0	teorias de aprendizaje:aprendizaje colaborativo
+2013-03-12 12:35:42	232	3	1	6	1	3	1	0	tag:tag:herramientas colaborativas
+2013-03-12 12:43:04	232	3.5	2	8	2	2	1	2.1213203435596	Realidad Virtual:Realidad Virtual
+2013-03-12 13:04:54	232	1	1	11	0	2	1	0	tag:tag
+2013-03-14 14:50:32	235	4	1	12	1	3	0	0	tag:tag:eduación-aumentada
+2013-03-14 14:51:47	235	4	2	3	2	3	0	0	tag:tag:realidad aumentada
+2013-03-16 09:26:33	232	0	0	13	0	1	1	0	tag
+2013-03-17 00:15:36	236	4.5	2	9	2	3	1	0.70710678118655	tag:tag:tag
+2013-03-17 17:40:05	236	4	2	3	2	2	0	0	tag:ancho de banda
+2013-03-17 22:01:48	238	0	0	3	0	1	1	0	tag
+2013-03-18 00:20:18	241	5	1	4	1	2	1	0	tag:3d
+2013-03-18 13:03:06	238	0	0	3	1	3	0	0	tag:impacto:analisis redes sociales
+2013-03-20 09:48:23	231	0	0	1	0	1	0	0	tag
+2013-03-20 09:51:16	231	0	0	1	0	1	0	0	tag
+2013-03-20 09:55:09	231	5	1	9	1	1	0	0	tag
+2013-03-20 10:00:48	231	4	1	1	0	1	0	0	tag
+2013-03-20 10:06:38	231	5	1	2	0	2	0	0	tag:interesante, estas destrezas serian competenc
+2013-03-20 10:12:09	231	0	0	2	0	1	0	0	tag
+2013-03-20 10:12:23	231	0	0	1	0	1	0	0	tag
+2013-03-20 10:17:40	231	0	0	1	0	1	0	0	tag
+2013-03-20 10:23:37	231	0	0	1	0	1	0	0	tag
+2013-03-20 10:24:39	231	0	0	1	0	1	0	0	tag
+2013-03-20 10:42:47	231	5	1	5	1	0	0	0	
+2013-03-20 10:46:58	231	0	0	1	0	3	1	0	tag:googledocs:herramienta colaborativa
+2013-03-20 10:56:03	231	4	1	1	0	2	1	0	tag:documentos
+2013-03-20 10:57:15	231	5	1	2	0	1	0	0	tag
+2013-03-20 12:23:32	231	5	1	2	1	1	1	0	tag
+2013-03-20 12:30:37	240	0	0	4	2	2	1	0	tag:tecnologías
+2013-03-20 12:46:07	231	5	1	3	1	1	1	0	tag
+2013-03-20 12:48:40	240	5	2	12	2	2	1	0	paradigmas de educación:esta muy entretenido e interesante porque es
+2013-03-20 12:58:41	240	3.66667	3	6	1	1	0	0.57735026918963	innovation
+2013-03-20 13:13:03	240	3	1	4	1	2	0	0	aprendizaje colaborativo:docentes
+2013-03-20 13:21:06	240	4	1	7	1	3	1	0	aprendizaje colaborativo:monitorización:awareness
+2013-03-20 16:18:37	240	5	1	4	1	1	0	0	tag
+2013-03-20 16:23:57	240	0	0	1	0	1	0	0	tag
+2013-03-20 16:25:22	240	0	0	4	0	1	0	0	técnicas colaborativas
+2013-03-20 18:50:35	240	5	1	11	1	1	2	0	interfaces
+2013-04-03 11:36:38	1	0	0	1	0	1	1	0	awareness
+2013-04-03 11:39:46	1	0	0	1	0	2	1	0	tabletop:manipulación de objetos
+2013-04-03 11:43:23	1	0	0	7	0	2	1	0	awareness:workspace awareness
+2013-04-03 12:15:48	1	0	0	1	0	1	0	0	técnica colaborativa
+2013-04-03 12:19:53	1	4	1	1	1	2	0	0	técnica colaborativa:técnica
+2013-04-03 12:23:47	1	3	1	1	1	1	0	0	técnica colaborativa
+2013-04-03 12:34:23	1	0	0	2	0	1	0	0	técnica colaborativa
+2013-04-11 12:19:54	1	4	2	7	1	4	0	1.4142135623731	groupware:web:wysiwis:difusión de información
+2013-04-18 10:08:11	233	4	1	2	1	4	1	0	tag:herramientas colaborativas:colaboracion web:web 2.0
+2013-04-20 02:23:58	235	3.5	2	6	1	4	1	0.70710678118655	tag:tag:gestión colaborativo:gestiÓn colaborativa
+2013-04-20 02:57:11	235	3.5	2	11	2	2	1	0.70710678118655	herramienta:sironta
+2013-04-20 03:08:17	235	4	2	3	1	4	2	0	tag:tag:assembla:cscw
+2013-04-20 03:14:06	235	4	1	5	1	3	1	0	tag:tag:zimbra
+2013-04-20 03:19:14	235	3	3	8	3	5	2	1	tag:tag:bussines:business:tiempo real
+2013-04-20 03:21:05	235	2.5	2	9	2	3	2	2.1213203435596	tag:tag:apps
+2013-04-20 03:29:13	235	4.5	2	6	2	5	1	0.70710678118655	tag:tag:tag:google apps educación:informativo
+2013-04-20 06:07:37	235	3	2	7	2	3	1	2.8284271247462	tag:tag:informativo
+2013-04-24 01:27:31	234	3	2	14	2	1	1	1.4142135623731	tag
+2013-04-24 02:17:31	234	3	1	7	1	1	1	0	tag
+2013-04-24 02:26:04	234	4	1	8	1	1	1	0	tag
+2013-04-24 16:34:43	232	0	0	3	1	1	1	0	tag
+2013-04-24 16:43:07	232	3	1	8	2	2	1	0	tag:informativo
+2013-04-24 16:44:01	232	3	2	16	3	3	1	1.4142135623731	tag:servicios microsoft:informativo
+2013-04-24 16:44:31	232	3	2	9	2	3	1	1.4142135623731	tag:google apps:comunicación
+2013-04-24 16:45:15	232	4	2	5	2	2	1	0	tag:difusión de información
+2013-04-25 12:23:28	232	4.33333	3	6	3	3	1	0.57735026918963	tag:nube:informativo
+2013-04-28 10:20:24	238	3	2	3	2	3	1	0	tag:tutorial:mashup_mapas
+2013-04-28 10:22:02	238	3	1	2	1	2	1	0	tag:tutorial
+2013-04-28 10:23:18	238	4	1	8	2	3	2	0	tag:herramienta:aplicaciones web
+2013-04-28 10:25:22	238	4	1	11	2	4	2	0	tag:herramientas colaborativas:arquitectura:aplicaciones web
+2013-04-28 10:26:12	238	3.33333	3	10	4	5	2	1.1547005383793	tag:herramientas colaborativas:mashups:informativo:aplicaciones web
+2013-04-28 10:31:10	238	3	2	10	2	4	1	0	tag:tutorial:api:aplicaciones web
+2013-04-28 10:32:34	238	3.33333	3	13	4	4	1	1.5275252316519	tag:aplicaciones facebook:tutorial:aplicaciones web
+2013-04-28 17:22:16	241	3	2	7	2	5	0	1.4142135623731	tag:tag:privilegio de usuario:webdev:herramienta
+2013-04-28 17:38:57	241	3	2	13	3	5	1	1.4142135623731	seminario:excelente seminario:workshop:webinar:herramienta
+2013-04-28 17:59:44	241	2	2	11	3	4	1	0	<span class= inlineedit-placeholder >click to:Interactuar:evolución web:informativo
+2013-04-28 22:49:04	241	2	2	8	2	3	0	0	<span class= inlineedit-placeholder >click to:inteligencia colectiva:informativo
+2013-04-28 22:52:47	241	2.5	2	4	3	5	1	0.70710678118655	<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:Interface:información compartida:informativo
+2013-04-28 23:25:05	241	3.25	4	10	5	3	0	0.95742710775634	Método Interactivo:herramienta:conceptualizaciones
+2013-04-28 23:41:08	241	2.66667	3	9	4	3	1	0.57735026918963	Aplicaciones Integradas:trabajo colaborativo:soporte
+2013-05-01 17:12:13	233	2.25	4	11	4	3	0	0.5	<span class= inlineedit-placeholder >click to:trabajo colaborativo:herramienta
+2013-05-03 03:00:15	241	4	4	10	4	3	1	0.81649658092773	Estimación:inteligencia colectiva:caso practico
+2013-05-04 17:34:40	241	0	0	2	1	1	0	0	<span class= inlineedit-placeholder >click to
+2013-05-04 17:50:30	241	4	2	5	3	4	0	1.4142135623731	<span class= inlineedit-placeholder >click to:usabilidad:informativo:novedades
+2013-05-04 18:32:51	241	3.5	2	3	3	4	0	0.70710678118655	<span class= inlineedit-placeholder >click to:globalizacion:informativo:estadisticas
+2013-05-04 21:13:43	234	3	1	10	2	4	1	0	<span class= inlineedit-placeholder >click to:h320:h323:videoconferencia
+2013-05-04 22:41:55	234	5	2	8	1	7	3	0	<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:videoconferencia:multicanal
+2013-05-05 00:36:10	234	3	1	4	0	6	1	0	<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:faster
+2013-05-05 07:05:25	235	3.4	5	7	4	3	1	0.89442719099992	principio_ic:caso practico:aprendizaje colaborativo
+2013-05-05 12:32:51	234	3.33333	3	7	3	2	1	0.57735026918963	<span class= inlineedit-placeholder >click to:tele_salud_medicina
+2013-05-05 16:00:38	234	2.5	2	6	2	2	1	0.70710678118655	<span class= inlineedit-placeholder >click to:telepresencia
+2013-05-05 17:46:51	241	4	1	6	1	1	1	0	<span class= inlineedit-placeholder >click to
+2013-05-05 21:12:41	241	0	0	2	0	1	1	0	<span class= inlineedit-placeholder >click to
+2013-05-05 21:44:28	238	0	0	5	0	2	1	0	<span class= inlineedit-placeholder >click to:aplicaciones web
+2013-05-05 21:47:28	241	3	1	4	1	2	0	0	<span class= inlineedit-placeholder >click to:gestión
+2013-05-05 21:49:35	234	3	1	4	1	4	1	0	<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:robot
+2013-05-05 23:38:50	241	2	1	4	1	2	1	0	<span class= inlineedit-placeholder >click to:gestión de aprendizaje
+2013-05-06 14:51:27	241	0	0	2	0	1	0	0	<span class= inlineedit-placeholder >click to
+2013-05-06 16:35:54	236	4	1	2	1	1	0	0	<span class= inlineedit-placeholder >click to
+2013-05-06 16:37:41	236	5	1	7	0	2	1	0	<span class= inlineedit-placeholder >click to:conocimiento nuevo
+2013-05-06 16:43:49	236	0	0	1	0	1	0	0	<span class= inlineedit-placeholder >click to
+2013-05-06 16:49:36	236	0	0	9	0	1	1	0	<span class= inlineedit-placeholder >click to
+2013-05-06 17:11:29	236	3	2	5	1	2	1	1.4142135623731	<span class= inlineedit-placeholder >click to:inteligencia colectiva
+2013-05-06 17:36:00	236	4	1	5	1	2	1	0	<span class= inlineedit-placeholder >click to:aplicacion de ic
+2013-05-06 18:10:04	241	5	1	10	0	1	1	0	<span class= inlineedit-placeholder >click to
+2013-05-06 18:11:39	236	1	1	3	0	1	1	0	<span class= inlineedit-placeholder >click to
+2013-05-06 18:42:41	236	3.5	2	5	0	1	1	2.1213203435596	<span class= inlineedit-placeholder >click to
+2013-05-06 22:38:38	236	4	1	8	0	1	1	0	<span class= inlineedit-placeholder >click to
+2013-05-06 23:40:47	236	3.5	2	6	1	2	1	0.70710678118655	globalización:globalización
+2013-05-06 23:48:02	236	2.5	4	13	3	2	1	1.2909944487358	<span class= inlineedit-placeholder >click to:ingenieria
+2013-05-07 22:12:44	241	3	1	4	1	2	1	0	<span class= inlineedit-placeholder >click to:videocapsula
+2013-05-08 00:25:43	240	4	2	9	2	2	0	0	<span class= inlineedit-placeholder >click to:cscl
+2013-05-08 00:39:07	240	4	1	5	1	2	0	0	<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to
+2013-05-08 00:50:36	240	0	0	6	0	1	0	0	<span class= inlineedit-placeholder >click to
+2013-05-08 01:22:58	238	0	0	1	0	3	0	0	<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to
+2013-05-08 01:26:12	238	0	0	1	0	2	0	0	<span class= inlineedit-placeholder >click to:aplicaciones web
+2013-05-08 11:10:13	231	5	1	4	1	1	1	0	<span class= inlineedit-placeholder >click to
+2013-05-08 11:43:09	231	4	1	8	1	2	1	0	<span class= inlineedit-placeholder >click to:herramienta
+2013-05-08 13:45:29	231	2.8	5	8	3	2	1	1.0954451150103	<span class= inlineedit-placeholder >click to:cisco
+2013-05-08 14:54:43	231	4	4	8	2	2	1	0	<span class= inlineedit-placeholder >click to:smart
+2013-05-08 17:29:50	231	3	2	6	0	2	1	0	multicanal:cscl
+2013-05-08 23:07:32	241	1.5	2	7	2	3	1	0.70710678118655	<span class= inlineedit-placeholder >click to:gestion:ya no mas web 2.0
+2013-05-09 12:18:41	232	0	0	3	0	1	0	0	<span class= inlineedit-placeholder >click to
+2013-05-09 12:21:32	232	0	0	1	0	1	0	0	<span class= inlineedit-placeholder >click to
+2013-05-09 12:24:36	232	2.5	2	2	0	1	0	0.70710678118655	<span class= inlineedit-placeholder >click to
+2013-05-09 12:27:41	232	0	0	1	0	1	0	0	<span class= inlineedit-placeholder >click to
+2013-05-09 13:32:46	245	0	0	2	0	2	0	0	<span class= inlineedit-placeholder >click to:aplicaciones web
+2013-05-09 13:46:35	245	0	0	1	0	2	0	0	<span class= inlineedit-placeholder >click to:aplicaciones web
+2013-05-09 20:43:54	240	0	0	1	0	1	0	0	<span class= inlineedit-placeholder >click to
+2013-05-09 21:51:55	233	3	1	2	1	3	2	0	<span class= inlineedit-placeholder >click to:herramientas colaborativas:cscw
+2013-05-09 22:14:13	233	1	1	3	0	2	2	0	<span class= inlineedit-placeholder >click to:groupware
+2013-05-09 22:16:11	1	4	2	3	1	2	0	0	herramientas colaborativas:música
+2013-05-09 22:17:47	233	5	1	2	1	2	1	0	<span class= inlineedit-placeholder >click to:cscw
+2013-05-09 22:21:21	233	4	2	3	1	3	1	0	<span class= inlineedit-placeholder >click to:cscw:herramientas colaborativas
+2013-05-09 22:29:39	233	3	1	2	1	3	1	0	<span class= inlineedit-placeholder >click to:herramienta colaborativa:aplicaciones web
+2013-05-09 22:37:14	233	4	1	3	1	3	0	0	<span class= inlineedit-placeholder >click to:cscw:cscl
+2013-05-09 22:41:33	233	4	1	4	0	0	0	0	
+2013-05-10 00:07:26	240	3.5	2	7	0	0	1	0.70710678118655	
+2013-05-10 00:08:38	240	0	0	4	0	0	1	0	
+2013-05-10 00:22:02	240	4	1	3	0	0	0	0	
+2013-05-10 00:56:36	240	0	0	1	0	1	1	0	<span class= inlineedit-placeholder >click to
+2013-05-10 01:05:46	240	0	0	2	0	3	1	0	<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to
+2013-05-10 01:11:26	240	0	0	2	0	2	0	0	<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to
+2013-05-10 01:25:02	233	5	1	2	1	2	1	0	<span class= inlineedit-placeholder >click to:web 2.0
+2013-05-10 12:32:44	240	0	0	3	0	2	0	0	<span class= inlineedit-placeholder >click to:<span class= inlineedit-placeholder >click to
